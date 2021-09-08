@@ -33,3 +33,8 @@
     ```
 
     I just like  this function.
+
+    * Vocational education. I work in the service of security systems. Passed a couple of online courses, a number of webinars, online master classes on layout and JS.
+
+    * I studied English intensively many years ago, when I was preparing to enter the Institute of Foreign Languages. I liked reading books in English then.
+    But now the test has estimated my knowledge only on A2. Nowadays I practice English sometimes on the Duolingo website.
