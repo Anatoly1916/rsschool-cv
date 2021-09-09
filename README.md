@@ -1,1 +1,0 @@
-https://Anatoly1916.github.io/rsschool-cv/cv
