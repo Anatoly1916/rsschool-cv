@@ -1,1 +1,1 @@
-https://Anatoly1916.github.io/rsschool-cv/cv
+https://Anatoly1916.github.io/rsschool-cv/
