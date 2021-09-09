@@ -1,0 +1,61 @@
+.wrapper{
+    background-color: aqua;
+    max-width: 1200px;
+    border: 3px solid black;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+}
+
+.avatar{
+    width: 250px;
+    
+}
+
+.name{
+    text-align: center;
+}
+
+.contacts{
+    font-size: 24px;
+}
+
+p{
+    font-size: 18px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+code{
+    font-size: 15px;
+}
+
+.logo{
+    width: 300px;
+    padding: 20px;
+}
+
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content:space-between;
+    
+}
+
+.git{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+    font-size: 24px;
+}
+
+.git p{
+    font-size: 24px;
+}
+
+a{
+    text-decoration: none;
+}
