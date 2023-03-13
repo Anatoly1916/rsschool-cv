@@ -1,1 +1,1 @@
-[# rsschool-cv](https://Anatoly1916.github.io/rsschool-cv/cv)
+[# rsschool-cv](https://Anatoly1916.github.io/rsschool-cv/)
