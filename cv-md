@@ -20,3 +20,35 @@
 I work in the security department. I service security systems. I really like front-end development and I want to develop my skills in this direction.
 
 ---
+
+## My Skills
+
+* HTML
+* CSS/SASS/LESS
+* JS
+* BOOTSTRAP
+* BEM
+* Git
+* Figma
+
+---
+
+## Code
+
+```
+	function pow(x, n) {
+	    let result = x;
+	    for(let i = 1; i < n; i++)
+	    result*= x;
+	    alert(result);
+	}
+
+	let x = prompt('x?', '');
+	let n = prompt('n?', '');
+
+	if(x < 0)
+	    alert('Use positive numbers please!');
+	pow(x, n);
+```
+
+---
